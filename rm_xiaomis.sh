@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Set your platform-tool path with "adb".
-ADB="platform-tools/adb"
+#ADB="platform-tools/adb"
+ADB="/opt/homebrew/bin/adb"
 
 if [ ! -e ${ADB} ];then
     echo "Error, ${ADB} not existed."
