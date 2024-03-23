@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Set your platform-tool path with "adb".
-ADB="platform-tools/adb"
-
-if [ ! -e ${ADB} ];then
-    echo "Error, ${ADB} not existed."
-    exit 0
+TEST_ADB=`adb --version`
+if [[ "$TEST_ADB" == "" ]];then
+    ADB="platform-tools/adb"
+else
+    ADB="adb"
 fi
 
 # Test device listed ?
