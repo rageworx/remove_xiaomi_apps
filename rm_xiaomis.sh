@@ -2,7 +2,8 @@
 
 # Set your platform-tool path with "adb".
 #ADB="platform-tools/adb"
-ADB="/opt/homebrew/bin/adb"
+#ADB="/opt/homebrew/bin/adb"
+ADB=`which adb`
 
 if [ ! -e ${ADB} ];then
     echo "Error, ${ADB} not existed."
@@ -54,6 +55,7 @@ com.xiaomi.simactivate.service
 com.xiaomi.micloud.sdk
 com.mi.android.globalminusscreen
 com.mi.android.globalpersonalassistant
+com.mi.globalbrowser
 com.mi.dlabs.vr
 com.mi.global.bbs
 com.mi.global.shop
