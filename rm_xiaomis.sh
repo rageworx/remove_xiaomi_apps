@@ -58,6 +58,7 @@ com.mi.global.bbs
 com.mi.global.shop
 com.mi.globalminusscreen
 com.mi.globalbrowser
+com.mi.android.globalFileexplorer
 com.mipay.wallet.in
 com.micredit.in
 com.mipay.wallet.id
