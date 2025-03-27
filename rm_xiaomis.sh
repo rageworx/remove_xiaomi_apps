@@ -56,6 +56,8 @@ com.mi.android.globalpersonalassistant
 com.mi.dlabs.vr
 com.mi.global.bbs
 com.mi.global.shop
+com.mi.globalminusscreen
+com.mi.globalbrowser
 com.mipay.wallet.in
 com.micredit.in
 com.mipay.wallet.id
@@ -76,6 +78,10 @@ com.amazon.mShop.android.shopping
 com.netflix.mediaclient
 com.spotify.music
 com.tencent.igxiaomi
+com.einnovation.temu
+com.booking
+com.linkedin.android
+cn.wps.moffice_eng
 org.ifaa.aidl.manager
 )
 
