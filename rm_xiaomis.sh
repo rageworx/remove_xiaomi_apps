@@ -36,6 +36,7 @@ com.google.android.youtube
 com.google.android.apps.subscriptions.red
 com.google.android.apps.podcasts
 com.google.android.apps.magazines
+com.google.android.apps.messaging
 com.google.android.apps.youtube.music
 com.miui.analytics
 com.miui.bugreport
