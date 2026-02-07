@@ -32,10 +32,10 @@ com.google.android.apps.tachyon
 com.google.android.feedback
 com.google.android.music
 com.google.android.videos
+com.google.android.youtube
 com.google.android.apps.subscriptions.red
 com.google.android.apps.podcasts
 com.google.android.apps.magazines
-com.google.android.apps.youtube
 com.google.android.apps.youtube.music
 com.miui.analytics
 com.miui.bugreport
