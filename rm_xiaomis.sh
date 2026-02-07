@@ -35,6 +35,8 @@ com.google.android.videos
 com.google.android.apps.subscriptions.red
 com.google.android.apps.podcasts
 com.google.android.apps.magazines
+com.google.android.apps.youtube
+com.google.android.apps.youtube.music
 com.miui.analytics
 com.miui.bugreport
 com.miui.cloudbackup
@@ -46,6 +48,7 @@ com.miui.player
 com.miui.userguide
 com.miui.videoplayer
 com.miui.yellowpage
+com.miui.player
 com.miui.android.fashiongallery
 com.xiaomi.glgm
 com.xiaomi.joyose
