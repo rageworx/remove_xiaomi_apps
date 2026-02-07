@@ -62,6 +62,7 @@ com.mi.globalbrowser
 com.mi.dlabs.vr
 com.mi.global.bbs
 com.mi.global.shop
+com.mi.appfinder
 com.mipay.wallet.in
 com.micredit.in
 com.mipay.wallet.id
