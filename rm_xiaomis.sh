@@ -39,6 +39,7 @@ com.google.android.apps.magazines
 com.google.android.apps.messaging
 com.google.android.apps.youtube.music
 com.google.android.apps.safetyhub
+com.google.android.apps.photos
 com.miui.analytics
 com.miui.bugreport
 com.miui.cloudbackup
