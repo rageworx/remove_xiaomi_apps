@@ -53,12 +53,15 @@ com.miui.videoplayer
 com.miui.yellowpage
 com.miui.player
 com.miui.android.fashiongallery
+com.miui.miservice
+com.miui.virtualsim
 com.xiaomi.glgm
 com.xiaomi.joyose
 com.xiaomi.mipicks
 com.xiaomi.payment
 com.xiaomi.simactivate.service
 com.xiaomi.micloud.sdk
+com.xiaomi.mirecycle
 com.mi.android.globalminusscreen
 com.mi.android.globalpersonalassistant
 com.mi.globalbrowser
@@ -70,8 +73,6 @@ com.mi.globalminusscreen
 com.mipay.wallet.in
 com.micredit.in
 com.mipay.wallet.id
-com.miui.miservice
-com.xiaomi.mirecycle
 com.facebook.appmanager
 com.facebook.services
 com.facebook.system
